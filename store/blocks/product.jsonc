@@ -22,7 +22,7 @@
     },
     "flex-layout.col#right":{
       "props":{
-        "verticalAlign": "marginTop",
+        "verticalAlign": "middle",
         "preventVerticalStretch": true 
         },
       "children":[
