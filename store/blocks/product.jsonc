@@ -58,11 +58,16 @@
     },
     "sku-selector":{
       "props":{
-        "showValueForVariation": "image",
-        "initialSelection": "empy",
+        "showValueNameForImageVariation": true,
+        "initialSelection": "empty",
         "showVariationsErrorMessage": true
       }
 
+    },
+
+    "product-images": {
+      "props": {
+      }
     },
 
 
