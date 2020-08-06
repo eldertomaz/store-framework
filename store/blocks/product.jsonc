@@ -27,7 +27,7 @@
         "buy-button"
 
       ],
-      "verticalAlign": "marginTop",
+      "verticalAlign": top,
       "preventVerticalStretch": true
     },
     "product-price": {
