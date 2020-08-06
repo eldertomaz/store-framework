@@ -32,3 +32,9 @@
     margin: 0 auto;
     padding: 0;
   }
+
+  .flex-layout.col#right{
+  
+    vertical-align: middle;  
+
+  }
